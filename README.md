@@ -1,6 +1,4 @@
-## Hey, I'm <a href="https://whispererx.github.io/" target="_blank">Whisperer</a>!
-
-> Full-stack web designer, software engineer.
+<a href="https://whispererx.github.io/"> <img  align=center src="https://media.discordapp.net/attachments/1252576401631084554/1402313445608525884/github-header-banner.png?ex=689375ab&is=6892242b&hm=0963ce42bd9e6de465fc8f63d8606f688faa0b6e0694018227559f6f44dcfa1f&=&format=webp&quality=lossless&width=1232&height=333"></a>
 
 ### Socials
 
@@ -10,8 +8,7 @@
 <a href="https://x.com/WhispererMeta" target="_blank"><img align="left" alt="Twitter"    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.discord.com/users/757852052901593179" target="_blank"><img align="left" alt="Discord"    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
-<br/>
-<hr>
+<br />
 
 ### Languages and Tools:
 
@@ -27,9 +24,7 @@
 <img align=left width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
 <img align=left width="36" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
 
-
-<br/>
-<hr>
+<br />
 
 ### Softwares:
 
