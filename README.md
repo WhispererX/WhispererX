@@ -1,4 +1,4 @@
-<a href="https://whispererx.github.io/"> <img  align=center src="https://media.discordapp.net/attachments/1252576401631084554/1402313445608525884/github-header-banner.png?ex=689375ab&is=6892242b&hm=0963ce42bd9e6de465fc8f63d8606f688faa0b6e0694018227559f6f44dcfa1f&=&format=webp&quality=lossless&width=1232&height=333"></a>
+<a href="https://whispererx.github.io/"> <img  align=center src="https://media.discordapp.net/attachments/1252576401631084554/1402313445608525884/github-header-banner.png?ex=68ac822b&is=68ab30ab&hm=99117fb00ffd60bbdae54430db7a35965353292bf2984a461fa9d384169f6e44&=&format=webp&quality=lossless&width=1552&height=420"></a>
 
 ### Socials
 
